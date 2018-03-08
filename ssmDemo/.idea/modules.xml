@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/base-manage/base-manage.iml" filepath="$PROJECT_DIR$/base-manage/base-manage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/base-manage/base-manage-api/base-manage-api.iml" filepath="$PROJECT_DIR$/base-manage/base-manage-api/base-manage-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/base-manage/base-manage-dao/base-manage-dao.iml" filepath="$PROJECT_DIR$/base-manage/base-manage-dao/base-manage-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/base-manage/base-manage-pojo/base-manage-pojo.iml" filepath="$PROJECT_DIR$/base-manage/base-manage-pojo/base-manage-pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/base-manage/base-manage-service/base-manage-service.iml" filepath="$PROJECT_DIR$/base-manage/base-manage-service/base-manage-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/base-manage/base-manage-web/base-manage-web.iml" filepath="$PROJECT_DIR$/base-manage/base-manage-web/base-manage-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/base-root/base-root.iml" filepath="$PROJECT_DIR$/base-root/base-root.iml" />
+      <module fileurl="file://$PROJECT_DIR$/base-tool/base-tool.iml" filepath="$PROJECT_DIR$/base-tool/base-tool.iml" />
+    </modules>
+  </component>
+</project>
